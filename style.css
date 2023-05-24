@@ -1,0 +1,32 @@
+.circle {
+    background: black;
+    border-radius: 50%;
+    height: 4em;
+    width: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #ar {
+    color: white;
+    font-size:150%;
+  }
+  ul li {
+    display: inline;
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0; /*убираем левый отступ, равный 40px*/
+  }
+  a {text-decoration: none; /*убираем подчеркивание текста ссылок*/}
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .zка {
+    z-index: 3;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
