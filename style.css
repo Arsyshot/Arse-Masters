@@ -133,3 +133,80 @@
   #image2 {
     position: relative;
   }
+  #popularno {
+    display:flex;
+    justify-content: center;
+  }
+.card1 {
+  background-color: black;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: white;
+  border-radius: 2%;
+}
+.популярное {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#titanum {
+  display: flex;
+  justify-content: center;
+}
+#truba {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.knopka2 {
+  display: flex;
+  justify-content: center;
+}
+#interculer {
+  display: flex;
+  justify-content: center;
+}
+#diski {
+  display: flex;
+  justify-content: center;
+}
+#trial {
+  display: flex;
+  justify-content: center;
+}
+#radiator{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#koleso {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#obves {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card2 {
+  background-color: black;
+  color: white;
+  border-radius: 2%;
+}
+.card3 {
+  background-color: black;
+  color: white;
+  border-radius: 2%;
+}
+.card4 {
+  background-color: black;
+  color: white;
+  border-radius: 2%;
+}
+
+
+
+
+
